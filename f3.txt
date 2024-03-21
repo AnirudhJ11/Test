@@ -3,3 +3,4 @@ line 2 for cherry pick
 Trying to merge using a custom commit message
 Trying Inetractive merge
 Trial 2
+editing in remote repository
